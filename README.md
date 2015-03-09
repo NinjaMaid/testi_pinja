@@ -54,5 +54,10 @@ to add new file in github
 4 verify that fie has been added to github  from  web
 
 
+If there are problmes with your config try 
+===========================================
 
+1. git config --global user.email "xxxx"
+
+xxxx == your github email address
 
