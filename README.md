@@ -1,7 +1,7 @@
 Here are typical gitHub commands:
 
 
-preconditions:: You have to have github aplicayion isntalled your computer !
+preconditions:: You have to have github aplication intalled your computer !
 
 if not ... get it from 
 
@@ -62,6 +62,4 @@ If there are problmes with your config try
 xxxx == your github email address
 
 
-
-this is demo 1348!!!
 
